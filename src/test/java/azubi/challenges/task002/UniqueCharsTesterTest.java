@@ -1,9 +1,9 @@
-package test.java.azubi.challenge.firstyear;
+package azubi.challenges.task002;
 
 import org.junit.Test;
 import static org.junit.Assert.*; 
 
-import main.java.azubi.challenge.firstyear.UniqueCharsTester;
+import azubi.challenges.task002.UniqueCharsTester;
 
 public class UniqueCharsTesterTest {
 
@@ -24,7 +24,6 @@ public class UniqueCharsTesterTest {
         boolean actual = UniqueCharsTester.hasUniqueChars("abcd efg");
         assertTrue(actual);
     }
-
 
     @Test
     public void WordWithTwoSpaces_should_BeFalse() {

@@ -1,9 +1,7 @@
-package test.java.azubi.challenge.firstyear;
+package azubi.challenges.task001;
 
 import org.junit.Test;
 import static org.junit.Assert.*; 
-
-import main.java.azubi.challenge.firstyear.PermutationTester;
 
 public class PermutationTesterTest {
 

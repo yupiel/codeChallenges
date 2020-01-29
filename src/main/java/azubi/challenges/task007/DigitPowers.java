@@ -1,4 +1,4 @@
-package main.java.azubi.challenge.firstyear;
+package azubi.challenges.task007;
 
 import java.util.*;
 

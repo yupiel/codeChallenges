@@ -1,4 +1,4 @@
-package main.java.azubi.challenge.firstyear;
+package azubi.challenges.task006;
 
 public class SumPair {
 

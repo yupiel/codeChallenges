@@ -2,8 +2,6 @@ package test.java.azubi.challenge.firstyear;
 
 import org.junit.Test;
 
-import main.java.azubi.challenge.firstyear.DigitPowers;
-
 import main.java.azubi.challenge.firstyear.MultiDimensionalArrays;
 import static org.junit.Assert.*;
 

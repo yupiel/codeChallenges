@@ -21,14 +21,11 @@ repositories {
 }
 
 dependencies {
-    // This dependency is used by the application.
-    implementation("com.google.guava:guava:28.0-jre")
-
     // Use JUnit test framework
-    testImplementation("junit:junit:4.12")
+    testImplementation("junit:junit:4.13")
 }
 
 application {
     // Define the main class for the application
-    mainClassName = "azubi.year.challenge.App"
+    mainClassName = ""
 }

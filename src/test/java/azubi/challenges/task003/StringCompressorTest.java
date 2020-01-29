@@ -1,9 +1,9 @@
-package test.java.azubi.challenge.firstyear;
+package azubi.challenges.task003;
 
 import org.junit.Test;
 import static org.junit.Assert.*; 
 
-import main.java.azubi.challenge.firstyear.StringCompressor;
+import azubi.challenges.task003.StringCompressor;
 
 public class StringCompressorTest {
 

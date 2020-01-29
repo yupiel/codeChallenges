@@ -1,8 +1,8 @@
-package test.java.azubi.challenge.firstyear;
+package azubi.challenges.task007;
 
 import org.junit.Test;
 
-import main.java.azubi.challenge.firstyear.DigitPowers;
+import azubi.challenges.task007.DigitPowers;
 
 import static org.junit.Assert.*; 
 

@@ -1,4 +1,4 @@
-package main.java.azubi.challenge.firstyear;
+package azubi.challenges.task004;
 
 import java.util.Arrays;
 import java.util.Objects;

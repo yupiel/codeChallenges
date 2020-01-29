@@ -1,9 +1,9 @@
-package test.java.azubi.challenge.firstyear;
+package azubi.challenges.task006;
 
 import org.junit.Test;
 import static org.junit.Assert.*; 
 
-import main.java.azubi.challenge.firstyear.SumPair;
+import azubi.challenges.task006.SumPair;
 
 public class SumPairTest {
 
