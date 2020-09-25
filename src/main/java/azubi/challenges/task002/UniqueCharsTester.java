@@ -9,7 +9,14 @@ public class UniqueCharsTester {
      * @param candidate given String to test
      */
     public static boolean hasUniqueChars(String candidate) {
-        // implement me
-        return false;
+        for(int i = 0; i < candidate.length(); i++){
+            for(int x = i + 1; x < candidate.length(); x++){
+                if(candidate.charAt(i) == candidate.charAt(x)){
+                    return false;
+                }
+            }
+        }
+
+        return true;
     }
 }
